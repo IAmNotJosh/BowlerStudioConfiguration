@@ -11,6 +11,10 @@
     "https://github.com/madhephaestus/MechWarfareWPI.git:MechWarfareWPI.xml": [
       "https://github.com/madhephaestus/MechWarfareWPI.git",
       "MechWarfareWPI.xml"
+    ],
+    ":": [
+      "",
+      ""
     ]
   },
   "BowlerStudioConfigs": {
